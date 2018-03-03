@@ -2,7 +2,7 @@
     echo '
     {
         "type": "buttons",
-        "buttons": ["급식", "날씨"]
+        "buttons": ["공지사항", "급식", "날씨"]
     }
     ';
 ?>
